@@ -7,7 +7,7 @@ license = "MIT OR Apache-2.0"
 
 [dependencies]
 anyhow = "1"
-gloo = "0.2.1"
+gloo = "0.8.0"
 http = "0.2"
 js-sys = "0.3"
 serde = { version = "1.0", features = ["derive"] }
