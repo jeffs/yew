@@ -19,7 +19,7 @@ description = "A framework for making client-side single-page apps"
 anyhow = "1"
 anymap = "0.12"
 console_error_panic_hook = "0.1"
-gloo = "0.2.1"
+gloo = "0.8.0"
 http = "0.2"
 indexmap = { version = "1.5", features = ["std"] }
 js-sys = "0.3"
